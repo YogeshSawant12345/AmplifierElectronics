@@ -722,3 +722,8 @@ Error List
 1. Reference Error 
 2. TypeError	
 3. Syntax Error	
+
+
+
+Amplifier Electronics 
+
